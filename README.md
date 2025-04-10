@@ -1,2 +1,2 @@
 Hello new world
-Website Assingment usinf boostrap
+Website Assingment using boostrap
