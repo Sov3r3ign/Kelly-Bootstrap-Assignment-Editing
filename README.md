@@ -1,3 +1,4 @@
 Hello new world
-Website Assingment using boostrap
+Website Assignment using boostrap
 Hello there :)
+Kind Warrior, what can thee offer ye for this mandrake soup
